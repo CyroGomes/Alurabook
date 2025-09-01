@@ -70,4 +70,3 @@ O foco foi aplicar boas práticas de **semântica, responsividade e usabilidade*
 ---
 
 ✍️ Desenvolvido com foco em **responsividade, semântica e boas práticas**.# Alurabook
-# Alurabook
